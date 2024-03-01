@@ -1,0 +1,8 @@
+iniconfig==2.0.0
+maturin==1.4.0
+packaging==23.2
+pluggy==1.4.0
+py-cpuinfo==9.0.0
+pytest==8.0.2
+pytest-benchmark==4.0.0
+python-rust @ file:///home/noel/projects/python-rust/target/wheels/python_rust-0.1.0-cp312-cp312-manylinux_2_34_x86_64.whl#sha256=7edad7d70a6845977ab6983c7afd7beff9af3d55717eb5897ef74b79285b4b10
